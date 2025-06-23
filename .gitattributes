@@ -1,2 +1,3 @@
+*.tmdl linguist-detectable=true
 *.tmdl linguist-language=DAX
-*.json linguist-language=JSON
+*.m linguist-language=M
