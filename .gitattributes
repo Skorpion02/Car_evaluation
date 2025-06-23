@@ -1,3 +1,2 @@
-*.pbix linguist-detectable=true
-*.pbix linguist-language=PBIX
-scripts/*.pbix linguist-language=PBIX
+*.tmdl linguist-language=DAX
+*.json linguist-language=JSON
